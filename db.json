@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Learn Veu + Rails",
+      "day": "Tomorrow, 24 October 2021",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "Buy new Jacket",
+      "day": "Wednesday, 24 October 2021",
+      "reminder": false,
+      "id": 9
+    },
+    {
+      "text": "Cooking for lunch",
+      "day": "Today",
+      "reminder": true,
+      "id": 10
+    }
+  ]
+}
